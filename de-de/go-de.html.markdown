@@ -3,6 +3,7 @@ language: Go
 filename: learngo-de.go
 contributors:
     - ["Joseph Adams", "https://github.com/jcla1"]
+    - ["Alexej Friesen", "https://github.com/heyalexej"]
 lang: de-de
 ---
 Go wurde entwickelt um probleme zu lösen. Sie ist zwar nicht der neuste Trend in
